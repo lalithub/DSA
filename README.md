@@ -21,3 +21,8 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Remove Nth Node From End of List | [CPP](CPP/List/1_RemoveNthNodeFromEndOfList.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Meduim|-|
+
+### [Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+| #  | Problem | Solution | Tutorial | Type | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| Valid Parentheses | [CPP](CPP/Stack/1_ValidParentheses.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/valid-parentheses/)|Easy|-|
