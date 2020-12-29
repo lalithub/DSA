@@ -15,3 +15,9 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Longest Substring Without Repeating Characters | [CPP](CPP/String/1_LongestSubstringWithoutRepeatingCharacters.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Meduim|-|
+
+
+### [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+| #  | Problem | Solution | Tutorial | Type | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| Remove Nth Node From End of List | [CPP](CPP/List/1_RemoveNthNodeFromEndOfList.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Meduim|-|
