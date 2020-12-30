@@ -21,6 +21,7 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Remove Nth Node From End of List | [CPP](CPP/List/1_RemoveNthNodeFromEndOfList.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Meduim|-|
+|02| Merge Two Sorted Lists | [CPP](CPP/List/2_MergeTwoSortedList.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|-|
 
 ### [Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 | #  | Problem | Solution | Tutorial | Type | Remarks |
