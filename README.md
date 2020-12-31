@@ -10,6 +10,8 @@
 |03| Minimum Absolute Difference | [CPP](CPP/Array/3_MinimumAbsoluteDifference.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/)|Easy|-|
 |04| Three Sum | [CPP](CPP/Array/4_ThreeSum.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/3sum/)|Medium|-|
 |05| Smallest Difference | [CPP](CPP/Array/5_SmallestDifference.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/)|Easy|-|
+|06| Container With Most Water | [CPP](CPP/Array/6_ContainerWithMostWater.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/container-with-most-water/)|Meduim|-|
+|07| Search In Rotated Sorted Array | [CPP](CPP/Array/7_SearchInRotatedSortedArray.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Meduim|-|
 
 ### [String](https://www.geeksforgeeks.org/string-data-structure/)
 | #  | Problem | Solution | Tutorial | Type | Remarks |
