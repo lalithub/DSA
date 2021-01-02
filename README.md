@@ -31,3 +31,8 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Valid Parentheses | [CPP](CPP/Stack/1_ValidParentheses.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/valid-parentheses/)|Easy|-|
+
+### [Matrix](https://www.geeksforgeeks.org/matrix/)
+| #  | Problem | Solution | Tutorial | Type | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| Rotate Image | [CPP](CPP/Matrix/1_RotateMatrix_Image.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/rotate-image/)|Meduim|-|
