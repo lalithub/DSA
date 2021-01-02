@@ -13,6 +13,7 @@
 |06| Container With Most Water | [CPP](CPP/Array/6_ContainerWithMostWater.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/container-with-most-water/)|Meduim|-|
 |07| Search In Rotated Sorted Array | [CPP](CPP/Array/7_SearchInRotatedSortedArray.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Meduim|-|
 |08| Combination Sum | [CPP](CPP/Array/8_CombinationSum.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/combination-sum/)|Meduim|-|
+|09| Maximum Subarray | [CPP](CPP/Array/9_MaximumSubarray.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/maximum-subarray/)|Easy|-|
 
 ### [String](https://www.geeksforgeeks.org/string-data-structure/)
 | #  | Problem | Solution | Tutorial | Type | Remarks |
