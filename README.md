@@ -37,3 +37,4 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Rotate Image | [CPP](CPP/Matrix/1_RotateMatrix_Image.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/rotate-image/)|Meduim|-|
+|01| Spiral Matrix | [CPP](CPP/Matrix/2_SpiralMatrix.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/spiral-matrix/)|Meduim|-|
