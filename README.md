@@ -19,7 +19,8 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Longest Substring Without Repeating Characters | [CPP](CPP/String/1_LongestSubstringWithoutRepeatingCharacters.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Meduim|-|
-
+|02| Longest Palindromic Substring | [CPP](CPP/String/2_LongestPalindromicSubstring.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/)|Meduim|-|
+|03| Group Anagrams | [CPP](CPP/String/3_GroupAnagrams.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/group-anagrams/)|Meduim|-|
 
 ### [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 | #  | Problem | Solution | Tutorial | Type | Remarks |
@@ -37,3 +38,4 @@
 | #  | Problem | Solution | Tutorial | Type | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| Rotate Image | [CPP](CPP/Matrix/1_RotateMatrix_Image.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/rotate-image/)|Meduim|-|
+|02| Spiral Matrix | [CPP](CPP/Matrix/2_SpiralMatrix.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/spiral-matrix/)|Meduim|-|
