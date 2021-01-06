@@ -39,3 +39,9 @@
 | --- | --- | --- | --- | --- | --- |
 |01| Rotate Image | [CPP](CPP/Matrix/1_RotateMatrix_Image.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/rotate-image/)|Meduim|-|
 |02| Spiral Matrix | [CPP](CPP/Matrix/2_SpiralMatrix.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/spiral-matrix/)|Meduim|-|
+
+### [DP - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+| #  | Problem | Solution | Tutorial | Type | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| Unique Paths | [CPP](CPP/DP/1_UniquePaths.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/unique-paths/)|Meduim|-|
+|02| Climbing Stairs | [CPP](CPP/DP/2_ClimbingStairs.cpp), [Python](), [JS]() | [LeetCode](https://leetcode.com/problems/climbing-stairs/)|Easy|-|
